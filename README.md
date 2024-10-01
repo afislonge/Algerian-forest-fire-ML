@@ -13,7 +13,6 @@ This repository contains the analysis and modeling of the Algerian Forest Fires 
 7. [Effective Use of Cross-Validation and Hyperparameter Tuning](#7-effective-use-of-cross-validation-and-hyperparameter-tuning)
 8. [Comprehensive Evaluation of Model Performance](#8-comprehensive-evaluation-of-model-performance)
 9. [Testing the Model on Unseen Data](#9-testing-the-model-on-unseen-data)
-10. [Proper Documentation of Code and Results](#10-proper-documentation-of-code-and-results)
 
 ## 1. Effective Handling of Errors
 
@@ -121,14 +120,3 @@ To validate the model's generalizability, we test it on unseen data and analyze 
 1. **Preprocessing:** The unseen data is preprocessed in the same way as the training data.
 2. **Prediction:** We use the trained model to predict outcomes on the unseen data.
 3. **Analysis:** The results are analyzed to evaluate how well the model performs on new, unseen data.
-
-## 10. Proper Documentation of Code and Results
-
-### Overview
-
-Proper documentation ensures the code is understandable and maintainable. This section focuses on documenting the code with comments and markdown cells.
-
-### Steps:
-
-1. **Comments:** Key sections of the code are annotated with comments explaining the purpose and functionality.
-2. **Markdown Cells:** Markdown cells are used to describe the approach, methodology, and results in a structured manner.
